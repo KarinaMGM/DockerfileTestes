@@ -1,0 +1,107 @@
+{
+    "success": true,
+    "products": [
+        {
+            "_id": "668d6950b9a638eebe8ae2ed",
+            "categories": [
+                {
+                    "_id": "668d683ab9a638eebe8ae2d3",
+                    "name": "Clothes"
+                }
+            ],
+            "photos": [
+                "http://lojaebac.ebaconline.art.br/lojaebac/lojaebac/ingrid1-1720543568323.webp",
+                "http://lojaebac.ebaconline.art.br/lojaebac/lojaebac/ingrid2-1720543568326.webp"
+            ],
+            "visible": true,
+            "additionalDetails": [],
+            "name": "Ingrid Running Jacket",
+            "price": 70,
+            "quantity": 9996,
+            "description": "<p>The Ingrid Running Jacket combines sleek design and high performance with slim, contoured fit and moisture-wicking fabric. It features a full-zip construction and a collared neck to keep the elements out and body heat in.</p><p>• Slim fit.</p><p>• Moisture-wicking fabric.</p><p>• Two side pockets.</p><p>• Zippered pocket at back waist.</p><p>• Machine wash/dry.</p><p>• Ivory specked full zip</p><p><br></p><p><br></p>",
+            "popular": false,
+            "location": "Belo Horizonte, MG, Brasil",
+            "specialPrice": 65,
+            "createdAt": "2024-07-09T16:46:08.663Z",
+            "updatedAt": "2024-07-09T16:46:08.663Z",
+            "__v": 0
+        },
+        {
+            "_id": "668d6924b9a638eebe8ae2eb",
+            "categories": [
+                {
+                    "_id": "668d6831b9a638eebe8ae2d1",
+                    "name": "Shoes"
+                }
+            ],
+            "photos": [
+                "http://lojaebac.ebaconline.art.br/lojaebac/lojaebac/sandals1-1720543523869.webp",
+                "http://lojaebac.ebaconline.art.br/lojaebac/lojaebac/sandals2-1720543523866.webp"
+            ],
+            "visible": true,
+            "additionalDetails": [],
+            "name": "Handmade Leather Donddi sandals For Women",
+            "price": 90,
+            "quantity": 9999,
+            "description": "<p>The Upper And Insole Are All Made Of Top Layer Leather, Soft, Flexible And Comfortable, Bohemian style, Hand-Cut, Simple But Colorful, Wearing Your Unique Beauty, Soft Rubber Bottom Let You Not Tired After Walking For A Long Time.</p><p>Details Determine Success Or Failure.</p><p>Color: Yellow/Green/Coffee/Orange/Blue/Red/Beige</p><p>Material: Full grain leather</p><p>Lining: Genuine Leather</p><p>Insole: Genuine Leather</p><p>Sole: Rubber</p><p>Heels: 2.5 cm/0.98\"</p><p>Weight: 0.21kg Each Shoes (measured size 7)&nbsp;</p><p>Fit: Medium to Wide, Runs Normal.</p><p>Origin: Made in China</p><p>Production Time: About&nbsp;7-10 days (Any exceptional case will email you, Please pay attention to your email left)</p><p>Shipping Time: Free Shipping To most locations, delivery time is approximately 5-15 days; We have paid FedEx Option, to most locations, delivery time is approximately 2-8 days.</p><p><br></p><p>Great Shoes To Spice Up Any Outfit, From Casual Jeans To Fancy Dress. The More You Wear Them, The More Comfortable They Will Become!</p><p>Item No. Dwarves1094</p>",
+            "popular": false,
+            "location": "",
+            "specialPrice": 83,
+            "createdAt": "2024-07-09T16:45:24.293Z",
+            "updatedAt": "2024-07-09T16:45:24.293Z",
+            "__v": 0
+        },
+        {
+            "_id": "668d68dbb9a638eebe8ae2e9",
+            "categories": [
+                {
+                    "_id": "668d6831b9a638eebe8ae2d1",
+                    "name": "Shoes"
+                }
+            ],
+            "photos": [
+                "http://lojaebac.ebaconline.art.br/lojaebac/lojaebac/oxford2-1720543451489.webp",
+                "http://lojaebac.ebaconline.art.br/lojaebac/lojaebac/oxford3-1720543451491.webp",
+                "http://lojaebac.ebaconline.art.br/lojaebac/lojaebac/oxford1-1720543451486.webp"
+            ],
+            "visible": true,
+            "additionalDetails": [],
+            "name": "Womens Wingtip Shoes Handmade Sheepskin Full Brogues Oxfords & Tie Flats",
+            "price": 110,
+            "quantity": 9996,
+            "description": "<p>This shoes is Narrow Fit.</p><p>Fine Pore Texture, Soft And Comfortable Waxing Sheepskin Upper. Insole And Lining Are All Made Of Top Layer Leather, Soft, Flexible And Comfortable,</p><p>Color: Muti Color1, Muti Color2</p><p>Material: Sheepskin</p><p>Lining: Genuine Leather</p><p>Insole: Genuine Leather (Unmovable）</p><p>Sole: Rubber</p><p>Heels: 2.9 cm/1.14\"</p><p>Weight: 0.28kg Each Shoes (measured size 7)</p><p>Fit: Medium to Wide, Runs Normal.</p><p>Origin: Made in China</p><p>Production Time: About&nbsp;7-10 days (Any exceptional case will email you, Please pay attention to your email left)</p><p>Shipping Time: Free Shipping To most locations, delivery time is approximately 5-15 days; We have paid FedEx Option, to most locations, delivery time is approximately 2-8 days.</p><p><br></p><p>Great Shoes To Spice Up Any Outfit, From Casual Jeans To Fancy Dress. The More You Wear Them, The More Comfortable They Will Become!</p><p>Item No. Dwarves1086</p>",
+            "popular": true,
+            "location": "São Paulo, SP, Brasil",
+            "specialPrice": 104,
+            "createdAt": "2024-07-09T16:44:11.942Z",
+            "updatedAt": "2024-07-09T16:44:11.942Z",
+            "__v": 0
+        },
+        {
+            "_id": "668d6893b9a638eebe8ae2e7",
+            "categories": [
+                {
+                    "_id": "668d683ab9a638eebe8ae2d3",
+                    "name": "Clothes"
+                }
+            ],
+            "photos": [
+                "http://lojaebac.ebaconline.art.br/lojaebac/lojaebac/eos-3-1720543379086.webp",
+                "http://lojaebac.ebaconline.art.br/lojaebac/lojaebac/eos-2-1720543379083.webp"
+            ],
+            "visible": true,
+            "additionalDetails": [],
+            "name": "Eos V-Neck Hoodie",
+            "price": 60,
+            "quantity": 9999,
+            "description": "<p>Getting chilly before class starts? Wear the Eos on your way to and from yoga for a cute and cozy warmup piece. Reach for its reliable comfort and enjoy a super-soft blend of fabrics finished in sporty style that includes a hidden kangaroo pocket.</p><p>Semi-fitted.</p><p>Long-Sleeve.</p><p>Machine wash/line dry.</p>",
+            "popular": true,
+            "location": "Rio de Janeiro, RJ, Brasil",
+            "specialPrice": 54,
+            "createdAt": "2024-07-09T16:42:59.577Z",
+            "updatedAt": "2024-07-09T16:42:59.577Z",
+            "__v": 0
+        }
+    ],
+    "totalProduct": 4
+}
